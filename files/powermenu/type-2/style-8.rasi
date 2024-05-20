@@ -2,7 +2,7 @@
  *
  * Author : Aditya Shakya (adi1090x)
  * Github : @adi1090x
- * 
+ *
  * Rofi Theme File
  * Rofi Version: 1.7.3
  **/
@@ -131,7 +131,7 @@ listview {
     reverse:                     false;
     fixed-height:                true;
     fixed-columns:               true;
-    
+
     spacing:                     15px;
     margin:                      0px;
     padding:                     0px;
@@ -157,7 +157,7 @@ element {
     cursor:                      pointer;
 }
 element-text {
-    font:                        "feather bold 24";
+    font:                        "Hack Nerd Font bold 24";
     background-color:            transparent;
     text-color:                  inherit;
     cursor:                      inherit;

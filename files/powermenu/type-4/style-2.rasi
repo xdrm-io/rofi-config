@@ -2,7 +2,7 @@
  *
  * Author : Aditya Shakya (adi1090x)
  * Github : @adi1090x
- * 
+ *
  * Rofi Theme File
  * Rofi Version: 1.7.3
  **/
@@ -24,9 +24,9 @@ configuration {
     element-padding:             35px 40px;
     element-border-radius:       20px;
 
-    prompt-font:                 "Iosevka Nerd Font Bold 72";
-    textbox-font:                "Iosevka Nerd Font 14";
-    element-text-font:           "feather 64";
+    prompt-font:                 "Hack Nerd Font Bold 72";
+    textbox-font:                "Hack Nerd Font 14";
+    element-text-font:           "Hack Nerd Font 64";
 
     background-window:           black/30%;
     background-normal:           white/5%;
@@ -102,7 +102,7 @@ listview {
     reverse:                     false;
     fixed-height:                true;
     fixed-columns:               true;
-    
+
     spacing:                     var(listview-spacing);
     background-color:            transparent;
     cursor:                      "default";

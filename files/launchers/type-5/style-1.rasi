@@ -2,7 +2,7 @@
  *
  * Author : Aditya Shakya (adi1090x)
  * Github : @adi1090x
- * 
+ *
  * Rofi Theme File
  * Rofi Version: 1.7.3
  **/
@@ -17,7 +17,7 @@ configuration {
 
 /*****----- Global Properties -----*****/
 * {
-    font:                        "Grape Nuts 14";
+    font:                        "Hack Nerd Font 14";
 }
 
 /*****----- Main Window -----*****/
@@ -71,7 +71,7 @@ inputbar {
 
 prompt {
     enabled:                     true;
-    font:                        "Grape Nuts Bold 14";
+    font:                        "Hack Nerd Font Bold 14";
     background-color:            transparent;
     text-color:                  inherit;
 }
@@ -117,7 +117,7 @@ listview {
     reverse:                     false;
     fixed-height:                true;
     fixed-columns:               true;
-    
+
     spacing:                     4px;
     margin:                      0px;
     padding:                     0px;
