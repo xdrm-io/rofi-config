@@ -11,7 +11,7 @@
 
 # Current Theme
 dir="$HOME/.config/rofi/powermenu/type-4"
-theme='style-5'
+theme="$1"; if [ -z "$theme" ]; then theme="style-5"; fi
 
 # CMDs
 uptime="`uptime -p | sed -e 's/up //g'`"
